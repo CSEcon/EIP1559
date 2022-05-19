@@ -49,7 +49,7 @@ url = {https://doi.org/10.7910/DVN/K7UYPI}
 }
 ```
 ### The Presentation
-## Part of the Rsearch Agenda: Computer Science Meets Economics on Blockchain
+## Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security, part of the research agenda: Computer Science Meets Economics on Blockchain
 > Presented (online) jointly by Fan Zhang and Luyao Zhang at the invited Feature Talk, [ETHconomics @ Devconnect](https://ef-events.notion.site/ETHconomics-Devconnect-676d73f791684e18bfae35bbc9e1fa90), Ethereum Foundation, Amsterdam, Netherland, Apr. 21, 2022
 
 - **Documentary on ETHconomics Devconnect [YouTube Channel](https://youtu.be/QetFrMDBFWY)**:
